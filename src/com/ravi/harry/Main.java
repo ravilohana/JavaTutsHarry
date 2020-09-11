@@ -6,7 +6,8 @@ public class Main {
         System.out.println("GitHub ");
         System.out.println("Thsi is test push command");
         System.out.println("Thsi is test pull  command from github");
-        sout
+        System.out.println("From intellj test push command");
+
 
     }
 }
